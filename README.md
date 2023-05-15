@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I am a passionate frontend developer on a journey 
 ### Get in Touch
 Thank you for taking the time to go through my GitHub profile readme presentation. If you're interested in collaborating, have questions, or want to connect, please feel free to reach out to me via the following channels:
 
-* Email: [fdafilgueira@gmail.com]
+* Email: fdafilgueira@gmail.com
 * LinkedIn: [Fernanda Acuña Filgueira](https://www.linkedin.com/in/fernanda-acu%C3%B1a-filgueira-b83942244/)
 
