@@ -1,8 +1,7 @@
 ### Hi there! I'm Fernanda Acuña 👋
 Welcome to my GitHub profile! I am a passionate frontend developer on a journey to explore the vast world of web development. With a strong foundation in JavaScript, HTML, CSS, and React, I'm constantly expanding my knowledge to create engaging and interactive user experiences. 
 
-- 🔭 I’m currently working on a Social Network for small-scale farmers:
-* [Social Network Marchantes App](https://github.com/Fernanda-acuna/DEV004-social-network)
+- 🔭 I’m currently working on a Social Network for small-scale farmers: [Social Network Marchantes App](https://github.com/Fernanda-acuna/DEV004-social-network)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: trying to be a plant lady it's harder than I thought 😮‍💨
 
