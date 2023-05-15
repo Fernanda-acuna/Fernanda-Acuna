@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Fernanda-acuna/Fernanda-Acuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi I'm Fernanda Acuña 👋
 -->
+Welcome to my GitHub profile! I am a passionate frontend developer on a journey to explore the vast world of web development. With a strong foundation in JavaScript, HTML, CSS, and React, I'm constantly expanding my knowledge to create engaging and interactive user experiences. 
+
+- 🔭 I’m currently working on a Social Network for small-scale farmers
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: trying to be a plant lady it's harder than I thought
+-->
+#Get in Touch
+Thank you for taking the time to go through my GitHub profile readme presentation. If you're interested in collaborating, have questions, or want to connect, please feel free to reach out to me via the following channels:
+
+Email: [fdafilgueira@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/fernanda-acu%C3%B1a-filgueira/]
+CV: [https://www.canva.com/design/DAFd1qnbg-0/41ncs538gVJMjKxpKP640A/watch?utm_content=DAFd1qnbg-0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
