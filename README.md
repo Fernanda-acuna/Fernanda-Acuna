@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I am a passionate frontend developer on a journey 
 
 - 🔭 I’m currently working on a Social Network for small-scale farmers
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: trying to be a plant lady it's harder than I thought
+- ⚡ Fun fact: trying to be a plant lady it's harder than I thought 😮‍💨
 -->
-#Get in Touch
+### Get in Touch
 Thank you for taking the time to go through my GitHub profile readme presentation. If you're interested in collaborating, have questions, or want to connect, please feel free to reach out to me via the following channels:
 
-Email: [fdafilgueira@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/fernanda-acu%C3%B1a-filgueira/]
-CV: [https://www.canva.com/design/DAFd1qnbg-0/41ncs538gVJMjKxpKP640A/watch?utm_content=DAFd1qnbg-0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
+* **Email: [fdafilgueira@gmail.com]
+* **LinkedIn: [https://www.linkedin.com/in/fernanda-acu%C3%B1a-filgueira/]
+
