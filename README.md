@@ -1,7 +1,7 @@
 ### Hi there! I'm Fernanda Acuña 👋
 Welcome to my GitHub profile! I am a passionate frontend developer on a journey to explore the vast world of web development 🚀 With a strong foundation in JavaScript, HTML, CSS, and React, I'm constantly expanding my knowledge to create engaging and interactive user experiences 👩‍💻 
 
-- 🔭 I’m currently working on MD Links: [MD Links](https://github.com/Fernanda-acuna/DEV004-md-links)
+- 🔭 I’m currently working on my Portfolio
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: being a plant lady it's harder than I thought 😮‍💨
 
